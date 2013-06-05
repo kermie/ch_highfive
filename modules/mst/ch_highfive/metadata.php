@@ -1,7 +1,7 @@
 <?php
 
 $aModule = array(
-    'id'           => 'mst_ch_highfive',
+    'id'           => 'mst_oxprice_ch_highfive',
     'title'        => 'ch_highfive',
     'url'          => 'http://www.marco-steinhaeuser.de',
     'description'  => array(
@@ -14,6 +14,6 @@ $aModule = array(
     'author'       => 'Marco, on the basis of this forum thread: <a href="http://goo.gl/dDQ1x" target="_blank">http://goo.gl/dDQ1x</a> and with the grateful help of my mate <a href="https://github.com/vanilla-thunder" target="_blank">vanilla-thunder</a>',
     'thumbnail'    => 'thumb.gif',
     'extend'       => array(
-        'oxprice'    => 'mst/ch_highfive/core/mst_ch_highfive'
+        'oxprice'    => 'mst/ch_highfive/core/mst_oxprice_ch_highfive'
     ),
 );
