@@ -1,0 +1,11 @@
+{
+"name": "kermie/ch_highfive",
+"description": "A module for OXID eShop to round the price on product details page to five Rappen/Cent (whatever currency you use). Might be important for example for Switzerland (AKA CH)",
+"type": "oxid-module",
+"license": "GPL-3.0",
+"require": {
+"php": ">=5.3.3",
+"composer/installers": "~1.0",
+"OXID_eShop": ">=4.7"
+}
+}
